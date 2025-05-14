@@ -1,6 +1,6 @@
 # Molecule Solubility Prediction
 
-This project explores the prediction of molecular solubility using various machine learning models, including linear regression, random forest regression, and neural networks. The dataset used is based on the Delaney solubility dataset, with engineered features for improved model performance.
+This is a work in progress project that explores the prediction of molecular solubility using various machine learning models, including linear regression, random forest regression, and neural networks. The dataset used is based on the Delaney solubility dataset, with engineered features for improved model performance.
 
 ## Project Structure
 
