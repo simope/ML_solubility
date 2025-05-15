@@ -1,6 +1,10 @@
 # Molecule Solubility Prediction Web App
 
+<<<<<<< HEAD
 This project provides a web application for predicting the solubility of chemical compounds using three different machine learning models: Linear Regression, Random Forest, and Neural Network.
+=======
+This is a work in progress project that explores the prediction of molecular solubility using various machine learning models, including linear regression, random forest regression, and neural networks. The dataset used is based on the Delaney solubility dataset, with engineered features for improved model performance.
+>>>>>>> 3a234af8ccca3f92e846d7bae934197f7b8db36a
 
 ## Overview
 
